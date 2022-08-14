@@ -1,0 +1,22 @@
+.boo,
+.boo1 {
+    display: grid;
+    grid-auto-rows: minmax(600px, auto);
+}
+
+.sl,
+.sl1 {
+    position: relative;
+    overflow: hidden;
+}
+
+.sli,
+.sli1 {
+    width: 300px;
+    height: 100%;
+    position: absolute;
+    padding: 30px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+}
