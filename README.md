@@ -1,4 +1,4 @@
 # Book Store
 
-[GRANTHAH](https://anuj-cs20.github.io/GRANTHAH/) - Home Page my first project in front-end dev\
-Build from scratch (except NavBar) because Bootstrap can't be more customised
+[GRANTHAH](https://anuj-cs20.github.io/GRANTHAH/) - Home Page is a front-end website project which is built from scratch using HTML CSS JS only\
+Except NavBar (Bootstrap).
